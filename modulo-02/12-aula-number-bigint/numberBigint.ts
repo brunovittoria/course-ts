@@ -6,6 +6,10 @@
  * doc referência: <number> https://www.typescriptlang.org/docs/handbook/basic-types.html#number
  * doc referência: <bigint> https://www.typescriptlang.org/docs/handbook/release-notes/typescript-3-2.html#bigint
  * Transpilação do arquivo: <Windows> CTRL + SHIFT + B -> tsc: build/watch
+ * 
+ * O tipo number representa números em ponto flutuante de 64 bits, o mesmo tipo que é usado pelo JavaScript.
+ * O tipo bigint representa números inteiros de precisão arbitrária. Isso significa que você pode usar bigints para representar números muito grandes ou muito pequenos, sem perder precisão.
+ * 
  */
 
 // ==> Exemplos: number
